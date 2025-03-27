@@ -23,7 +23,9 @@ public class Calcu {
     
     public float Suma()
     {
-    
+        
+        int a=5;    
+        
         return (this.a+this.b);
     
     
